@@ -1,69 +1,34 @@
-# Joachim Hummel - KI-Automation Spezialist
+# Joachim Hummel - AI Automation Specialist
 
-Eine moderne, responsive Website für Joachim Hummel, die seine Expertise in KI-Automation und IT-Services präsentiert.
+Professional website for Joachim Hummel showcasing AI automation services.
 
-## 🌟 Features
+## 🚀 Features
 
-- **Moderne Benutzeroberfläche** mit N8N-inspiriertem Design (tiefblau und violett)
-- **Vollständig responsive** für alle Geräte optimiert
-- **Funktionales Kontaktformular** mit E-Mail-Integration über Brevo
-- **Deutsche Inhalte** speziell für den deutschen Markt
-- **Professionelle Präsentation** von 30 Jahren IT-Erfahrung
+- **Modern Design**: N8N-inspired color scheme with deep blue and violet
+- **Responsive**: Mobile-first design that works on all devices
+- **Contact Form**: Functional contact form with email integration
+- **Legal Compliance**: GDPR-compliant privacy policy and legal notice
+- **Performance Optimized**: Built with React, TypeScript, and Vite
 
-## 🚀 Technische Details
+## 🛠️ Technology Stack
 
-### Frontend
-- **React 18** mit TypeScript
-- **Vite** als Build-Tool
-- **Tailwind CSS** mit shadcn/ui Komponenten
-- **Wouter** für Client-seitiges Routing
-- **TanStack Query** für Datenmanagement
+- **Frontend**: React 18 + TypeScript + Vite
+- **Styling**: Tailwind CSS + shadcn/ui
+- **Backend**: Node.js + Express
+- **Email**: Brevo (Sendinblue) API
+- **Deployment**: Ready for production
 
-### Backend
-- **Node.js** mit Express.js
-- **Brevo API** für E-Mail-Versand
-- **Zod** für Validierung
-- **TypeScript** durchgängig
+## 📝 Services
 
-### Design
-- **N8N-inspirierte Farbpalette**: Tiefblau (#220 85% 15%) und Violett (#270 75% 25%)
-- **Inter Schriftart** für moderne Typografie
-- **Mobile-First** responsive Design
-- **Accessibility** optimiert
+- AI Automation Consulting
+- n8n Workflow Development  
+- Self-Hosting Solutions
+- Infrastructure Management
 
-## 📧 E-Mail Integration
+## 📞 Contact
 
-Das Kontaktformular nutzt die Brevo API für:
-- Automatische E-Mail-Weiterleitung an Joachim Hummel
-- Bestätigungs-E-Mail an den Absender
-- Umfassende Validierung und Fehlerbehandlung
-
-## 🛠️ Development
-
-```bash
-# Dependencies installieren
-npm install
-
-# Development Server starten
-npm run dev
-```
-
-## 📱 Kontakt
-
-**Joachim Hummel**  
-KI-Automation Spezialist  
-30 Jahre IT-Erfahrung
-
-- Website: joachimhummel.de
-- Spezialisierung: n8n Workflow-Entwicklung, KI-Integration, Self-Hosting
-
-## 🎯 Services
-
-- **KI-Beratung**: Strategische Beratung für KI-Integration
-- **n8n Workflows**: Professionelle Automation-Lösungen  
-- **Self-Hosting**: Sichere, lokale IT-Infrastrukturen
-- **IT-Freelancing**: Individuelle IT-Projekte und Support
+Website: [joachimhummel.de](https://joachimhummel.de)
 
 ---
 
-*Entwickelt mit ♥ für die deutsche KI-Automation Community*
+*30 years of IT experience in automation and infrastructure solutions*
